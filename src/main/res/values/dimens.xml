@@ -1,0 +1,107 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="banquan">10sp</dimen>
+    <dimen name="little_pm">8sp</dimen>
+    <dimen name="big_titlle">19sp</dimen>
+    <dimen name="title_top_2">20sp</dimen>
+    <dimen name="big_titlle_2">16sp</dimen>
+    <dimen name="big_titlle_3">18sp</dimen>
+    <dimen name="conten_nomal">15sp</dimen>
+    <dimen name="conten_size_14">14sp</dimen>
+    <dimen name="conten_nomal_small">13sp</dimen>
+    <dimen name="conten_middle">12sp</dimen>
+    <dimen name="conten_middle_ok">11sp</dimen>
+    <dimen name="conten_middle_m">10sp</dimen>
+    <dimen name="with_text">100dp</dimen>
+    <dimen name="edit_content">16dp</dimen>
+    <dimen name="title_top">23sp</dimen>
+    <dimen name="common_tip_textsize">16sp</dimen>
+    <dimen name="img_head">70dp</dimen>
+    <dimen name="chat_head">50dp</dimen>
+    <dimen name="alert_width">290dp</dimen>
+    <dimen name="common_circle_width">3dp</dimen>
+    <dimen name="progress_circle_radius">34dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="top_button_height">50dp</dimen>
+    <dimen name="menu_with">170dp</dimen>
+    <dimen name="bigmenu_with">250dp</dimen>
+    <dimen name="txt_width">95dp</dimen>
+    <dimen name="txt_height">60dp</dimen>
+    <dimen name="size_0">0dp</dimen>
+    <dimen name="size_1">1dp</dimen>
+    <dimen name="size_2">2dp</dimen>
+    <dimen name="size_3">3dp</dimen>
+    <dimen name="size_4">4dp</dimen>
+    <dimen name="size_5">5dp</dimen>
+    <dimen name="size_6">6dp</dimen>
+    <dimen name="size_7">7dp</dimen>
+    <dimen name="size_8">8dp</dimen>
+    <dimen name="size_9">9dp</dimen>
+    <dimen name="size_10">10dp</dimen>
+    <dimen name="size_11">11dp</dimen>
+    <dimen name="size_12">12dp</dimen>
+    <dimen name="size_13">13dp</dimen>
+    <dimen name="size_14">14dp</dimen>
+    <dimen name="size_15">15dp</dimen>
+    <dimen name="size_16">16dp</dimen>
+    <dimen name="size_17">17dp</dimen>
+    <dimen name="size_18">18dp</dimen>
+    <dimen name="size_20">20dp</dimen>
+    <dimen name="size_25">25dp</dimen>
+    <dimen name="size_30">30dp</dimen>
+    <dimen name="size_35">35dp</dimen>
+    <dimen name="size_40">40dp</dimen>
+    <dimen name="size_45">45dp</dimen>
+    <dimen name="size_50">50dp</dimen>
+    <dimen name="size_55">55dp</dimen>
+    <dimen name="size_60">60dp</dimen>
+    <dimen name="size_65">65dp</dimen>
+    <dimen name="size_70">70dp</dimen>
+    <dimen name="size_75">75dp</dimen>
+    <dimen name="size_80">80dp</dimen>
+    <dimen name="size_85">85dp</dimen>
+    <dimen name="size_90">90dp</dimen>
+    <dimen name="size_95">95dp</dimen>
+    <dimen name="size_100">100dp</dimen>
+    <dimen name="size_120">120dp</dimen>
+    <dimen name="size_150">150dp</dimen>
+    <dimen name="size_200">200dp</dimen>
+    <dimen name="size_250">250dp</dimen>
+    <dimen name="size_btn_h">35dp</dimen>
+
+    <dimen name="navibar_text_size">12sp</dimen>
+    <dimen name="navibar_margin_right">25dp</dimen>
+    <dimen name="navibar_margin_left">25dp</dimen>
+    <dimen name="navibar_margin_method">30dp</dimen>
+    <dimen name="navibar_margin_top">15dp</dimen>
+    <dimen name="navibar_edit_height">35dp</dimen>
+    <dimen name="navibar_button_height">45sp</dimen>
+    <dimen name="big_big">80sp</dimen>
+    <dimen name="naviroute_navi_height">43dp</dimen>
+    <dimen name="navisetting_margin_bottom">5dp</dimen>
+    <dimen name="navisetting_subtext_size">18sp</dimen>
+    <dimen name="titletext_size">22sp</dimen>
+    <dimen name="margin_right">10dp</dimen>
+    <dimen name="margin_left">10dp</dimen>
+    <dimen name="margin_top">10dp</dimen>
+    <dimen name="margin_bottom">10dp</dimen>
+    <dimen name="paping">13dp</dimen>
+    <dimen name="route_text_size">20sp</dimen>
+    <dimen name="big_text_size">60sp</dimen>
+    <dimen name="setting_margin_top">10dp</dimen>
+    <dimen name="setting_margin_bottom">10dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="bbuton_rounded_corner_radius">15dp</dimen>
+    <dimen name="btn_text_size">16sp</dimen>
+
+    <dimen name="grid_expected_size">120dp</dimen>
+    <dimen name="item_margin_horizontal">24dp</dimen>
+    <dimen name="item_margin_vertical">8dp</dimen>
+
+</resources>

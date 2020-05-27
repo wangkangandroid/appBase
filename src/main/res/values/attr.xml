@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Rotate3dAnimation">
+        <attr name="rollType" format="enum">
+            <enum name="x" value="0" />
+            <enum name="y" value="1" />
+            <enum name="z" value="2" />
+        </attr>
+        <attr name="fromDeg" format="float" />
+        <attr name="toDeg" format="float" />
+        <attr name="pivotX" format="fraction" />
+        <attr name="pivotY" format="fraction" />
+    </declare-styleable>
+    <declare-styleable name="LoadingView">
+        <attr name="radius" format="float|reference"/>
+        <attr name="left_ball_color" format="color|reference"/>
+        <attr name="right_ball_color" format="color|reference"/>
+        <attr name="animation_speed" format="float|reference"/>
+        <attr name="need_animation" format="boolean|reference"/>
+    </declare-styleable>
+    <declare-styleable name="CircleImageView">
+        <attr name="border_width" format="dimension" />
+        <attr name="border_color" format="color" />
+    </declare-styleable>
+    <declare-styleable name="HorizontalListView">
+        <attr name="dividerWidth" format="dimension" />
+        <attr name="android:divider" />
+        <attr name="android:requiresFadingEdge" />
+        <attr name="android:fadingEdgeLength" />
+    </declare-styleable>
+
+    <attr name="rightPadding" format="dimension" />
+
+    <declare-styleable name="SlidingMenu">
+        <attr name="rightPadding" />
+    </declare-styleable>
+    <declare-styleable name="FoldingMenu">
+        <attr name="foldNumber" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="RoundedImageView">
+        <attr name="riv_corner_radius" format="dimension" />
+        <attr name="riv_border_width" format="dimension" />
+        <attr name="riv_border_color" format="color" />
+        <attr name="riv_mutate_background" format="boolean" />
+        <attr name="riv_oval" format="boolean" />
+        <attr name="android:scaleType" />
+        <attr name="riv_tile_mode">
+            <enum name="clamp" value="0" />
+            <enum name="repeat" value="1" />
+            <enum name="mirror" value="2" />
+        </attr>
+        <attr name="riv_tile_mode_x">
+            <enum name="clamp" value="0" />
+            <enum name="repeat" value="1" />
+            <enum name="mirror" value="2" />
+        </attr>
+        <attr name="riv_tile_mode_y">
+            <enum name="clamp" value="0" />
+            <enum name="repeat" value="1" />
+            <enum name="mirror" value="2" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="SwipeLayout">
+        <attr name="drag_edge" format="enum">
+            <enum name="left" value="0" />
+            <enum name="right" value="1" />
+            <enum name="top" value="2" />
+            <enum name="bottom" value="3" />
+        </attr>
+        <attr name="show_mode" format="enum">
+            <enum name="lay_down" value="0" />
+            <enum name="pull_out" value="1" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="DashboardView">
+        <attr name="radius_d" format="dimension" />     <!--扇形半径-->
+        <attr name="startAngle" format="integer" /> <!-- 起始角度-->
+        <attr name="sweepAngle" format="integer" />  <!--绘制角度-->
+        <attr name="bigSliceCount" format="integer" /> <!-- 长刻度条数-->
+        <attr name="sliceCountInOneBigSlice" format="integer" /> <!-- 长刻度条数-->
+        <attr name="arcColor" format="color" /> <!--弧度颜色-->
+        <attr name="measureTextSize" format="dimension" /> <!--刻度字体大小-->
+        <attr name="textColor" format="color" /> <!--字体颜色-->
+        <attr name="headerTitle" format="string" /> <!--表头-->
+        <attr name="headerTextSize" format="string" /> <!--表头字体大小-->
+        <attr name="headerRadius" format="dimension" /> <!--表头半径-->
+        <attr name="pointerRadius" format="dimension" /> <!--指针半径-->
+        <attr name="circleRadius" format="dimension" /> <!--中心圆半径-->
+        <attr name="minValue" format="integer" /> <!--最小值-->
+        <attr name="maxValue" format="integer" /> <!--最大值-->
+        <attr name="realTimeValue" format="float" /> <!--实时值-->
+        <attr name="stripeWidth" format="dimension" /> <!--色带宽度-->
+        <attr name="stripeMode"> <!--色条显示位置-->
+            <enum name="normal" value="0" />
+            <enum name="inner" value="1" />
+            <enum name="outer" value="2" />
+        </attr>
+        <attr name="bgColor" format="color" /> <!--背景颜色-->
+    </declare-styleable>
+
+    <declare-styleable name="RoundProgressBar">
+        <attr name="roundColor" format="color" />
+        <attr name="roundProgressColor" format="color" />
+        <attr name="roundWidth" format="dimension"/>
+        <attr name="textColo" format="color" />
+        <attr name="textSize" format="dimension" />
+        <attr name="max" format="integer"/>
+        <attr name="textIsDisplayable" format="boolean"/>
+        <attr name="style">
+            <enum name="STROKE" value="0"/>
+            <enum name="FILL" value="1"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="StarIsNeed">
+        <attr name="star_is_need" format="string" />
+    </declare-styleable>
+    <declare-styleable name="SelfDefineViewTitle">
+        <attr name="text_view_title" format="string" />
+    </declare-styleable>
+</resources>
